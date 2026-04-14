@@ -53,7 +53,7 @@ To verify the global asymptotic stability of the error dynamics, the observer is
 
   * `quadrotor_observer.py`: The main simulation script containing the system matrices, Riccati solvers, RK4 engine, and plotting routines.
   * `figures_part4/`: Directory containing the auto-generated high-resolution plots.
-  * `MCT_Project-3.pdf`: The detailed theoretical report containing the observability proofs, covariance tuning rationale, and stability analysis.
+
 
 ## Acknowledgments
 
