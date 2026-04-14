@@ -26,7 +26,7 @@ pip install numpy scipy matplotlib
 Execute the main simulation script from the terminal. The engine will solve the LQR and LQE Riccati equations, run the stochastic numerical integration at 1000 Hz (`dt = 0.001`), print a detailed performance summary, and generate the figures.
 
 ```bash
-python quadrotor_observer.py
+python code.py
 ```
 
 ## Simulation Scenarios and Results
